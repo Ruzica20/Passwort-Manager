@@ -1,6 +1,6 @@
 # PasswordManager
 # Installation:
-Auf das grüne Feld klicken (wo Code steht) und als ZIP herunterladen. In dem heruntergeladenen Ordner ein Powershell-Fenster öffnen und requirements.txt installieren: **pip install -r requirements.txt**. Der Passwort Manger ist nun einsatzbereit.
+Auf das grüne Feld klicken (wo Code steht) und als ZIP herunterladen. In dem heruntergeladenen Ordner ein Powershell-Fenster öffnen und requirements.txt installieren: **pip install -r requirements.txt**. Der Passwort Manager ist nun einsatzbereit.
 
 # Anmerkung:
 Um den Passwort Manager als Program auszuführen, gebe in der Konsole folgendes ein: **python main.py**.
